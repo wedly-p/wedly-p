@@ -3,9 +3,9 @@
 Business Technologist & Venture Strategist
 
 ## About Me
-- I bridge business strategy and technology execution to spot opportunities, devise solutions, and develop scalable ventures
+- Wedly bridges business strategy and technology execution to spot opportunities, devise solutions, and develop scalable ventures
 
-## My Core Competencies
+## Wedly's Core Competencies
 Strategic Analysis
 	•	Competitive positioning
 	•	Market evaluation
