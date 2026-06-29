@@ -4,8 +4,6 @@ Business Technologist & Venture Strategist
 
 ## About Me
 - I bridge business strategy and technology execution to spot opportunities, devise solutions, and develop scalable ventures
-## Skills
-Python | Java | SQL (Learning) | Data Analysis | JASP | Statistical Analysis | Survey Data
 
 ## My Core Competencies
 Strategic Analysis
@@ -29,7 +27,7 @@ Financial Decision Making
 	•	Performance measurement
 
 ## Long-Term Mission
-To create technology-enabled ventures that meet pressing needs (solve meaningful business problems) while generating sustainable economic value.
+-To create technology-enabled ventures that meet pressing needs (solve meaningful business problems) while generating sustainable economic value.
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/wedly-pierre-908b11192/
